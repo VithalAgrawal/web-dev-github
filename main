@@ -1,0 +1,23 @@
+[33mcommit acbe8d909da034ab1f2a7afefd4e4e24fb1bf7f1[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Vithal Agrawal <vithalagrawal6@gmail.com>
+Date:   Tue Feb 21 23:05:20 2023 +0530
+
+    updated test.txt
+
+[33mcommit 4752631722c734921e530eec3d94681bdea15497[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Vithal Agrawal <vithalagrawal6@gmail.com>
+Date:   Tue Feb 21 22:57:53 2023 +0530
+
+    added new feature
+
+[33mcommit 0fcd76d723623c3dda45fce4ce80f11aaa345507[m
+Author: Vithal Agrawal <vithalagrawal6@gmail.com>
+Date:   Tue Feb 21 21:23:40 2023 +0530
+
+    changed test.txt and added second-commit.txt
+
+[33mcommit 66a0ee964650ef5634d686b9b18c23cfdbeb3121[m
+Author: Vithal Agrawal <vithalagrawal6@gmail.com>
+Date:   Tue Feb 21 21:13:13 2023 +0530
+
+    added test.txt file
